@@ -4,12 +4,12 @@
 
 ### 👩‍💻 About Me
 
-* 🌱 Learning and growing in **Data Analytics**
-* 🐍 Working with **Python** for programming and data analysis
-* 📊 Working with **NumPy & Pandas**
-* 🗄️ Working with **MySQL**
-* 🚀 Building my skills through practice and projects
-* 💡 Always interested in learning new things
+- 🐍 I work with **Python** for programming and data analysis
+- 📊 I work with **NumPy, Pandas & Matplotlib**
+- 🗄️ I work with **SQL** for working with databases
+- 🌐 I have learned **HTML**
+- 🚀 I am building my skills through practice and projects
+- 💡 I enjoy learning new technologies and improving my skills
 
 ---
 
@@ -17,9 +17,10 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
@@ -44,7 +45,7 @@
 
 ### 🌱 My Goal
 
-> To keep learning, build practical projects, and grow my skills in
+> To keep learning, build practical projects, and grow my skills in  
 > **Python and Data Analytics.** 🚀
 
 ---
